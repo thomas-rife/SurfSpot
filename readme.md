@@ -20,7 +20,8 @@ Start exploring today and catch the waves with Beach Finder!
 - CSS: For styling and responsiveness.
 - Spitcast API: To access Beach data for various beach spots.
     - Spitcast Documentation Link: https://github.com/jackmullis/spitcast-api-docs/blob/main/README.md, the API has information on location,   name, county ID, address and latitude/longitude
-- Code Sandbox Deploy link: https://4qvmyn.csb.app/ (not sure why it doesn't display background image, it displays fine when using npm start)
+- Code Sandbox Deploy link: https://4qvmyn.csb.app/
+- To run: clone repo, CD into src and run `npm start`
 
 ## Developer
 
