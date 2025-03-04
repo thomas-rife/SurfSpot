@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/surfspot/static/css/main.9f0ec713.css",
-    "main.js": "/surfspot/static/js/main.81652fa7.js",
-    "static/js/453.4c28cdd8.chunk.js": "/surfspot/static/js/453.4c28cdd8.chunk.js",
-    "static/media/SF-Pro-Display-Bold.otf": "/surfspot/static/media/SF-Pro-Display-Bold.07a7fd83dabf0d1a6353.otf",
-    "static/media/SF-Pro-Display-Regular.otf": "/surfspot/static/media/SF-Pro-Display-Regular.4f28b3e8c88c34243766.otf",
-    "static/media/backgroundimage.jpg": "/surfspot/static/media/backgroundimage.dce8411f534b4692c236.jpg",
-    "static/media/Channel_Left-Slanted.ttf": "/surfspot/static/media/Channel_Left-Slanted.f68e70a87d67abad6464.ttf",
-    "static/media/surfer.png": "/surfspot/static/media/surfer.92bcb9b3746e726a800a.png",
-    "index.html": "/surfspot/index.html",
-    "main.9f0ec713.css.map": "/surfspot/static/css/main.9f0ec713.css.map",
-    "main.81652fa7.js.map": "/surfspot/static/js/main.81652fa7.js.map",
-    "453.4c28cdd8.chunk.js.map": "/surfspot/static/js/453.4c28cdd8.chunk.js.map"
+    "main.css": "/SurfSpot/static/css/main.9bfd79ce.css",
+    "main.js": "/SurfSpot/static/js/main.13f7da0c.js",
+    "static/js/453.4c28cdd8.chunk.js": "/SurfSpot/static/js/453.4c28cdd8.chunk.js",
+    "static/media/SF-Pro-Display-Bold.otf": "/SurfSpot/static/media/SF-Pro-Display-Bold.07a7fd83dabf0d1a6353.otf",
+    "static/media/SF-Pro-Display-Regular.otf": "/SurfSpot/static/media/SF-Pro-Display-Regular.4f28b3e8c88c34243766.otf",
+    "static/media/backgroundimage.jpg": "/SurfSpot/static/media/backgroundimage.dce8411f534b4692c236.jpg",
+    "static/media/Channel_Left-Slanted.ttf": "/SurfSpot/static/media/Channel_Left-Slanted.f68e70a87d67abad6464.ttf",
+    "static/media/surfer.png": "/SurfSpot/static/media/surfer.92bcb9b3746e726a800a.png",
+    "index.html": "/SurfSpot/index.html",
+    "main.9bfd79ce.css.map": "/SurfSpot/static/css/main.9bfd79ce.css.map",
+    "main.13f7da0c.js.map": "/SurfSpot/static/js/main.13f7da0c.js.map",
+    "453.4c28cdd8.chunk.js.map": "/SurfSpot/static/js/453.4c28cdd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f0ec713.css",
-    "static/js/main.81652fa7.js"
+    "static/css/main.9bfd79ce.css",
+    "static/js/main.13f7da0c.js"
   ]
 }
